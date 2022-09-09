@@ -1,0 +1,44 @@
+p
+{
+	font-size: 14px;
+	font-family: Impact: "Arial Black", Arial, Verdana;
+	font-style: italic;
+	text-align: justify;
+	color: white;
+
+
+}
+body
+{
+
+background-color: rgba(131, 97, 162, 0.5);
+}
+
+.introduction
+{font-weight: bold;
+text-decoration: overline;}
+
+.flottant
+{
+	float : left;
+}
+
+.opacity_patate
+{
+	opacity: 0.5;
+	float : left;
+	max-height: 20;
+	max-width: 30;
+}
+
+
+*
+{
+	color: white;
+}
+
+
+.autreparagraphe
+{
+	clear: right;
+}
