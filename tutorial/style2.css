@@ -1,0 +1,22 @@
+h1
+{
+    color: rgb(255,0,0);
+    font-size:3em
+}
+
+.flottant 
+{
+    text-align: center;
+}
+
+
+.list
+{
+    border: 1px solid red;
+    box-shadow: 6px 6px 0px black;
+}
+
+a:hover
+{ 
+    font-weight: bold;
+}
